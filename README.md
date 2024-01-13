@@ -6,7 +6,7 @@ Explaining analytics & statistical concepts with Python tutorials.
 
 ## Article
 - soon 🙂
-
+- ...
 
 
 ## Contact
